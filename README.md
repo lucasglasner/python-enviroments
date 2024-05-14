@@ -1,4 +1,4 @@
-### Python conda enviroments for hydrology/hydraulics coding
+### working python enviroments for geoscience and engineering
 
 The idea of this repository is to store some python enviroments with the necesary packages for a geoscientist/engineer. 
 
