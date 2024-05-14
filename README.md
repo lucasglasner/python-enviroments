@@ -1,6 +1,6 @@
 ### Python conda enviroments for hydrology/hydraulics coding
 
-The idea of this repository is to store some python enviroments with the necesary packages for the hydrology/hydraulics professional.
+The idea of this repository is to store some python enviroments with the necesary packages for a geoscientist/engineer. 
 
 The core of each enviroment is to have all the required python tools for:
 
@@ -12,8 +12,6 @@ The core of each enviroment is to have all the required python tools for:
 * Tools for CFD and climate models.
 
 Further work on this project might include tools in other programming languages and command line programs. Like google earth engine, SAGA-GIS, GRASS-GIS, etc.
-
-The python enviroment was originally created on linux OS so there might be problems when trying to install the packages on a Windows machine. A windows OS enviroment will soon be uploaded.
 
 ---
 
